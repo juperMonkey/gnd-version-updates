@@ -1,5 +1,6 @@
 {
     "version": "0.1.2",
     "download_url": "https://example.com/game/download",
-    "changelog": "- Fixed bugs\n- Added new features"
+    "changelog": "- Fixed bugs\n- Added new features",
+    "msg": "Name: [mc.name]"
 }
